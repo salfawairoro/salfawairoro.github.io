@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 28 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://salfawairoro.github.io/404.html</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/blog/archive/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/atom.xml</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/changelog/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/contact/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/design/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,9 +99,9 @@
 
 	
 	<url>
-	<loc>https://salfawairoro.github.io/documentation/</loc>
+	<loc>https://salfawairoro.github.io/dokumentasi/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/feed.xml</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/headers/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/humans.txt</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +161,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/blog/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +176,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +191,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/info/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +206,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/profil/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,22 +221,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/redirect-page/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://salfawairoro.github.io/roadmap/</loc>
-	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +236,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/robots.txt</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -270,7 +255,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/search/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -285,7 +270,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/sitemap.xml</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -302,7 +287,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/blog/page2/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -317,7 +302,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/blog/page3/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -332,7 +317,7 @@
 	<url>
 	<loc>https://salfawairoro.github.io/blog/page4/</loc>
 	
-		<lastmod>2022-07-18T06:35:48-04:00</lastmod>
+		<lastmod>2022-07-18T19:47:46-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
