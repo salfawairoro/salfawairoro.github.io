@@ -10,13 +10,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://192.168.43.210:4001/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="/assets/js/modernizr.min.js"></script>
+	<script src="http://192.168.43.210:4001/assets/js/modernizr.min.js"></script>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script src="http://192.168.43.210:4001/assets/js/webfont.js"></script>
 	<script>
 		WebFont.load({
 			google: {
@@ -32,63 +32,63 @@
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
-	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
 	
 	
-	<link rel="canonical" href="/assets/xslt/atom.xslt">
+	
+	
+	<link rel="canonical" href="http://192.168.43.210:4001/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="/assets/xslt/atom.xslt">
+	<meta property="og:url" content="http://192.168.43.210:4001/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Feeling Responsive">
+	<meta property="og:site_name" content="Salman Alfarisi">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	<meta property="article:author" content="https://www.facebook.com/salfawairoro">
 
 
 	
 	<!-- Twitter -->
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
+	<meta name="twitter:site" content="salfawairoro">
+	<meta name="twitter:creator" content="salfawairoro">
 	<meta name="twitter:title" content="Atom Feed (Styled)">
 	<meta name="twitter:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
 	
 	
 
-	<link type="text/plain" rel="author" href="/humans.txt">
+	<link type="text/plain" rel="author" href="http://192.168.43.210:4001/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://192.168.43.210:4001/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://192.168.43.210:4001/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://192.168.43.210:4001/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://192.168.43.210:4001/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -107,10 +107,13 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="" class="icon-tree"> Feeling Responsive</a></h1>
+      <!--  <h1 class="hide-for-large-up"><a href="http://192.168.43.210:4001" class="icon-tree"> Salman Alfarisi</a></h1>  -->
+      <!-- Nonaktifkan Icon di pojok kiri sebelum TITLE -->
+      <h1 class="hide-for-large-up"><a href="http://192.168.43.210:4001" class="-"> Salman Alfarisi</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-      <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
+       <!-- <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>NAV</span></a></li> -->
+      <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span></span></a></li>
     </ul>
     <section class="top-bar-section">
 
@@ -124,22 +127,7 @@
 
             
             
-              <li><a  href="/">Mulai</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="/getting-started/">Getting Started</a></li>
+              <li><a  href="http://192.168.43.210:4001/">HOME</a></li>
               <li class="divider"></li>
 
             
@@ -156,59 +144,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="/design/">Templates</a>
+                <a  href="http://192.168.43.210:4001/profil/">Profil</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/design/grid/">Grid &amp; Colors</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/grid/">Profil-Yayasan</a></li>
                     
 
                       
 
-                      <li><a  href="/design/typography/typography/">Typography</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/typography/typography/">Profil-Aliyah</a></li>
                     
 
                       
 
-                      <li><a  href="/design/page/">Page/Post</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a  href="/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/portfolio/">Portfolio</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/grid/">Profil-Tsanawiyah</a></li>
                     
                   </ul>
 
@@ -227,44 +180,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="/headers/">Header Styles</a>
+                <a  href="http://192.168.43.210:4001/design/">PENDIDIKAN</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/design/header-full-width-image/">Header with Full-Width-Image</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/grid/">Madrasah-Tsanawiyah</a></li>
                     
 
                       
 
-                      <li><a  href="/design/header-image-pattern/">Header with Image and Pattern</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/typography/typography/">Madrasah-Aliyah</a></li>
                     
 
                       
 
-                      <li><a  href="/design/header-image-color/">Header with image and color</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a  href="/design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/page/">Paud</a></li>
                     
                   </ul>
 
@@ -283,19 +216,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="/documentation/">Documentation</a>
+                <a  href="http://192.168.43.210:4001/headers/">BERITA-SALFA</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/changelog/">Changelog</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/header-full-width-image/">Header with Full-Width-Image</a></li>
                     
 
                       
 
-                      <li><a  href="/roadmap/">Roadmap</a></li>
+                      <li><a  href="http://192.168.43.210:4001/design/header-image-pattern/">Header with Image and Pattern</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://192.168.43.210:4001/design/header-image-color/">Header with image and color</a></li>
                     
                   </ul>
 
@@ -314,14 +252,76 @@
             
 
               <li class="has-dropdown">
-                <a  href="/blog/">Blog</a>
+                <a  href="http://192.168.43.210:4001/documentation/">Dokumentasi</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://192.168.43.210:4001/changelog/">Changelog</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://192.168.43.210:4001/roadmap/">Roadmap</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="http://192.168.43.210:4001/blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://192.168.43.210:4001/blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a  href="http://192.168.43.210:4001/gallery/">Gallery</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://192.168.43.210:4001/gallery/santri/">Gallery-Kegiatan-Santri</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://192.168.43.210:4001/gallery/ust/">Gallery-Kegiatan-Ustadz</a></li>
                     
                   </ul>
 
@@ -404,10 +404,18 @@
 
           
           
+        
+
+              
+
+
+
+          
+          
             
             
               <li class="divider"></li>
-              <li><a  href="/search/">Search</a></li>
+              <li><a  href="http://192.168.43.210:4001/search/">Search</a></li>
 
             
             
@@ -423,7 +431,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="/contact/">Contact</a></li>
+              <li><a  href="http://192.168.43.210:4001/contact/">Contact</a></li>
 
             
             
@@ -441,8 +449,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="/" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="http://192.168.43.210:4001/" title="Salman Alfarisi – Berusaha Istikomah dijalan yang Lurus">
+				<img src="http://192.168.43.210:4001/assets/img/logo.png" alt="Salman Alfarisi – Berusaha Istikomah dijalan yang Lurus">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -520,7 +528,7 @@
 
             <p class="shadow-black">
               »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="/info/">More ›</a>
+              <a href="http://192.168.43.210:4001/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -544,27 +552,27 @@
               
                 
                   <li >
-                    <a href=""  title=""></a>
+                    <a href="http://192.168.43.210:4001"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="/contact/"  title="Contact">Contact</a>
+                    <a href="http://192.168.43.210:4001/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://192.168.43.210:4001/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://192.168.43.210:4001/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://192.168.43.210:4001/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -590,7 +598,7 @@
             
               
                 <li >
-                  <a href=""  title=""></a>
+                  <a href="http://192.168.43.210:4001"  title=""></a>
                 </li>
             
               
@@ -629,13 +637,15 @@
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
+              <li><a href="http://github.com/salfawairoro" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
             
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
+              <li><a href="http://www.youtube.com/salfawairoro" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von salfawairoro auf YouTube"></a></li>
             
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
+              <li><a href="http://twitter.com/salfawairoro" target="_blank" class="icon-twitter" title="Immer das Neuste von salfawairoro gibt es auf Twitter"></a></li>
             
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
+              <li><a href="http://www.facebook.com/" target="_blank" class="icon-facebook" title=""></a></li>
+            
+              <li><a href="http://instagram.com/" target="_blank" class="icon-instagram" title=""></a></li>
             
             </ul>
           </section>
@@ -646,7 +656,7 @@
 		
 
 
-<script src="/assets/js/javascript.min.js"></script>
+<script src="http://192.168.43.210:4001/assets/js/javascript.min.js"></script>
 
 
 

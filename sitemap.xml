@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 24 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>/404.html</loc>
+	<loc>http://192.168.43.210:4001/404.html</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>/blog/archive/</loc>
+	<loc>http://192.168.43.210:4001/blog/archive/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>/atom.xml</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>/changelog/</loc>
+	<loc>http://192.168.43.210:4001/atom.xml</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/changelog/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>/contact/</loc>
+	<loc>http://192.168.43.210:4001/contact/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/design/</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>/documentation/</loc>
+	<loc>http://192.168.43.210:4001/design/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/feed.xml</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>/getting-started/</loc>
+	<loc>http://192.168.43.210:4001/documentation/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/headers/</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>/humans.txt</loc>
+	<loc>http://192.168.43.210:4001/feed.xml</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/blog/</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>/</loc>
+	<loc>http://192.168.43.210:4001/headers/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/info/</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>/redirect-page/</loc>
+	<loc>http://192.168.43.210:4001/humans.txt</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>/roadmap/</loc>
-	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,9 +159,99 @@
 
 	
 	<url>
-	<loc>/robots.txt</loc>
+	<loc>http://192.168.43.210:4001/blog/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/info/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/profil/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/redirect-page/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/roadmap/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/robots.txt</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -268,9 +268,9 @@
 
 	
 	<url>
-	<loc>/search/</loc>
+	<loc>http://192.168.43.210:4001/search/</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -283,9 +283,9 @@
 
 	
 	<url>
-	<loc>/sitemap.xml</loc>
+	<loc>http://192.168.43.210:4001/sitemap.xml</loc>
 	
-		<lastmod>2022-07-15T20:54:39-04:00</lastmod>
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -294,6 +294,55 @@
 		<priority>0.3</priority>
 	
 	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/blog/page2/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/blog/page3/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://192.168.43.210:4001/blog/page4/</loc>
+	
+		<lastmod>2022-07-17T22:05:37-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
 	
 
 	
@@ -303,7 +352,7 @@
 
 	
 	<url>
-	<loc>/design/mediaelement_js/</loc>
+	<loc>http://192.168.43.210:4001/design/mediaelement_js/</loc>
 	
 		<lastmod>2015-10-15T00:00:00-04:00</lastmod>
 	
@@ -318,7 +367,7 @@
 
 	
 	<url>
-	<loc>/design/typography/typography/</loc>
+	<loc>http://192.168.43.210:4001/design/typography/typography/</loc>
 	
 		<lastmod>2015-08-16T00:00:00-04:00</lastmod>
 	
@@ -333,7 +382,7 @@
 
 	
 	<url>
-	<loc>/design/comments/</loc>
+	<loc>http://192.168.43.210:4001/design/comments/</loc>
 	
 		<lastmod>2015-08-15T00:00:00-04:00</lastmod>
 	
@@ -348,7 +397,7 @@
 
 	
 	<url>
-	<loc>/design/no-header/</loc>
+	<loc>http://192.168.43.210:4001/design/no-header/</loc>
 	
 		<lastmod>2015-08-11T00:00:00-04:00</lastmod>
 	
@@ -363,7 +412,7 @@
 
 	
 	<url>
-	<loc>/design/no-header-but-image/</loc>
+	<loc>http://192.168.43.210:4001/design/no-header-but-image/</loc>
 	
 		<lastmod>2015-03-12T00:00:00-04:00</lastmod>
 	
@@ -378,7 +427,7 @@
 
 	
 	<url>
-	<loc>/design/header-with-text/</loc>
+	<loc>http://192.168.43.210:4001/design/header-with-text/</loc>
 	
 		<lastmod>2015-02-10T00:00:00-05:00</lastmod>
 	
@@ -393,7 +442,7 @@
 
 	
 	<url>
-	<loc>/design/header-logo-only/</loc>
+	<loc>http://192.168.43.210:4001/design/header-logo-only/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
 	
@@ -408,7 +457,7 @@
 
 	
 	<url>
-	<loc>/design/header-image-color/</loc>
+	<loc>http://192.168.43.210:4001/design/header-image-color/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
 	
@@ -423,7 +472,7 @@
 
 	
 	<url>
-	<loc>/design/header-full-width-image/</loc>
+	<loc>http://192.168.43.210:4001/design/header-full-width-image/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-04:00</lastmod>
 	
@@ -438,7 +487,7 @@
 
 	
 	<url>
-	<loc>/design/header-image-pattern/</loc>
+	<loc>http://192.168.43.210:4001/design/header-image-pattern/</loc>
 	
 		<lastmod>2014-10-08T00:00:00-04:00</lastmod>
 	
@@ -453,7 +502,7 @@
 
 	
 	<url>
-	<loc>/design/gallery/</loc>
+	<loc>http://192.168.43.210:4001/design/gallery/</loc>
 	
 		<lastmod>2014-09-15T00:00:00-04:00</lastmod>
 	
@@ -468,7 +517,7 @@
 
 	
 	<url>
-	<loc>/design/video/</loc>
+	<loc>http://192.168.43.210:4001/design/video/</loc>
 	
 		<lastmod>2014-09-14T00:00:00-04:00</lastmod>
 	
@@ -483,7 +532,7 @@
 
 	
 	<url>
-	<loc>/design/grid/</loc>
+	<loc>http://192.168.43.210:4001/design/grid/</loc>
 	
 		<lastmod>2014-09-13T00:00:00-04:00</lastmod>
 	
@@ -498,7 +547,7 @@
 
 	
 	<url>
-	<loc>/design/portfolio/</loc>
+	<loc>http://192.168.43.210:4001/design/portfolio/</loc>
 	
 		<lastmod>2014-09-10T00:00:00-04:00</lastmod>
 	
@@ -513,7 +562,7 @@
 
 	
 	<url>
-	<loc>/design/page-fullwidth/</loc>
+	<loc>http://192.168.43.210:4001/design/page-fullwidth/</loc>
 	
 		<lastmod>2014-08-19T00:00:00-04:00</lastmod>
 	
@@ -528,7 +577,7 @@
 
 	
 	<url>
-	<loc>/design/post-right-sidebar/</loc>
+	<loc>http://192.168.43.210:4001/design/post-right-sidebar/</loc>
 	
 		<lastmod>2014-07-10T00:00:00-04:00</lastmod>
 	
@@ -543,7 +592,7 @@
 
 	
 	<url>
-	<loc>/design/page/</loc>
+	<loc>http://192.168.43.210:4001/design/page/</loc>
 	
 		<lastmod>2014-07-10T00:00:00-04:00</lastmod>
 	
@@ -558,7 +607,7 @@
 
 	
 	<url>
-	<loc>/design/breadcrumb/</loc>
+	<loc>http://192.168.43.210:4001/design/breadcrumb/</loc>
 	
 		<lastmod>2014-07-10T00:00:00-04:00</lastmod>
 	
@@ -573,7 +622,7 @@
 
 	
 	<url>
-	<loc>/design/post-left-sidebar/</loc>
+	<loc>http://192.168.43.210:4001/design/post-left-sidebar/</loc>
 	
 		<lastmod>2014-07-09T00:00:00-04:00</lastmod>
 	
