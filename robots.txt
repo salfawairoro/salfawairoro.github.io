@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://salfawairoro.github.io/sitemap.xml
+Sitemap: http://192.168.43.210:4001/sitemap.xml
