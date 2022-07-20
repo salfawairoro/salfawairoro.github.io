@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://salfawairoro.github.io/</id>
-	<title>Salman Alfarisi</title>
-	<updated>2022-07-19T07:47:25-04:00</updated>
+	<title>Pondok&lt;br/&gt;Salman Alfarisi</title>
+	<updated>2022-07-20T17:29:05-04:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -751,14 +751,48 @@ image:
 			<summary>Feeling Responsive allows you to use all kinds of headers. This header is with text.</summary>
 			<content type="html" xml:base="https://salfawairoro.github.io/design/header-with-text/">&lt;!--more--&gt;
 
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+&lt;h2 id=&quot;judul--header-with-text&quot;&gt;Judul : Header With Text&lt;/h2&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    title: header with text
+    title: Judul dengan Text
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;contoh-table-href&quot;&gt;Contoh Table Href…:&lt;/h2&gt;
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;Oops! Tersesat...? -&amp;gt; 404.md&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;Blog Archive -&amp;gt; archive.html&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt; -&amp;gt; atom.scss&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;Atom Feed -&amp;gt; atom.xml&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;Atom Feed (Styled) -&amp;gt; atom.xslt&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;contoh-loop&quot;&gt;Contoh Loop:&lt;/h2&gt;
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;1 -&amp;gt; 1&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;2 -&amp;gt; 2&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;3 -&amp;gt; 3&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;4 -&amp;gt; 4&lt;/a&gt;&lt;/li&gt;
+
+    &lt;li class=&quot;text-left&quot;&gt;&lt;a href=&quot;#&quot;&gt;5 -&amp;gt; 5&lt;/a&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;hr /&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
