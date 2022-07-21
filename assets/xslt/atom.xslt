@@ -151,7 +151,7 @@
 
                       
 
-                      <li><a  href="https://salfawairoro.github.io/profile/profil-yayasan.html">Profil Yayasan</a></li>
+                      <li><a  href="https://salfawairoro.github.io/profile/profil-pondok.html">Profil Pondok</a></li>
                     
 
                       
@@ -162,11 +162,6 @@
                       
 
                       <li><a  href="https://salfawairoro.github.io/profile/profil-mts.html">Profil Tsanawiyah</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://salfawairoro.github.io/lat/">Profil LATIHAN</a></li>
                     
                   </ul>
 
@@ -462,7 +457,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits b20">
-            <!-- 2022-07-21 05:38 -->
+            <!-- 2022-07-21 09:45 -->
             Official Website Pondok Pesantren Salman Alfarisi Wairoro Indah Halmahera Selatan Maluku Utara @ 2022  
           </section>
           <!-- <br/><br/> -->
