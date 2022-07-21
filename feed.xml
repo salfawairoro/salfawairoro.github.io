@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="https://salfawairoro.github.io/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Pondok&lt;br/&gt;Salman Alfarisi</title>
+		<title>Salman Alfarisi</title>
 		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
 		<link>https://salfawairoro.github.io/</link>
 		<atom:link href="https://salfawairoro.github.io/feed.xml" rel="self" type="application/rss+xml" />
